@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Gallery";
+}
+@{
+    Layout = "_Layout";
+}
+@using Gallery.Models;
+@model Artist
+<link rel="stylesheet" href="~/js/SelectedIndex.js" />
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="stylesheet" href="~/js/site.js" />
+<div id="EditFormArtist">
+    <form asp-action="EditArtist" >
+        <div class="form-group">
+            <label>ID</label>
+            <input asp-for="Aid" type="text" class="form-control" id="inputId" placeholder=@Model.Aid>
+        </div>
+        <div class="form-group">
+            <label>Name</label>
+            <input asp-for="Aname" type="text" class="form-control" id="inputName" placeholder=@Model.Aname>
+        </div>
+        <div class="form-group">
+            <label>Born Date</label>
+            <input asp-for="Aborn" type="text" class="form-control" id="inputBorn" placeholder=@Model.Aborn>
+        </div>
+        <div class="form-group">
+            <label>Die Date</label>
+            <input asp-for="Adied" type="text" class="form-control" id="inputDie" placeholder=@Model.Adied>
+        </div>
+        <div class="form-group">
+            <label>Works</label>
+            <input asp-for="AnumberOfWork" type="text" class="form-control" id="inputWork" placeholder=@Model.AnumberOfWork>
+        </div>
+        <div class="form-group">
+            <label>Info</label>
+            <input asp-for="Ainformation" type="text" class="form-control" id="inputInfo" placeholder=@Model.Ainformation>
+        </div>
+        <button class="btn btn-primary" >Update</button>
+    </form>
+</div>

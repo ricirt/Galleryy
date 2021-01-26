@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.labels {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+}
+.inputs {
+    margin-left:20px;
+
+    margin-bottom:5px;
+    margin-top:5px;
+    justify-content:space-evenly;
+    display: flex;
+    flex-direction: column;
+}
+.editProfile {
+    display: flex;
+    flex-direction: row;
+}
+.doublePoint{
+    display:flex;
+    flex-direction:row;
+    
+}

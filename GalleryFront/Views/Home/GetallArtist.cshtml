@@ -1,0 +1,79 @@
+﻿@{
+
+}
+@using Gallery.Models;
+@model List<Artist>;
+
+<div>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <td>
+                    Id
+                </td>
+                <td>
+                    Name
+                </td>
+                <td>
+                    Born
+                </td>
+                <td>
+                    Die
+                </td>
+                <td>
+                    WorksCounts
+                </td>
+                <td>
+                    Info
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var el in Model)
+            {
+            <tr>
+                <td id="Aid">
+                    @el.Aid
+                </td>
+                <td id="Aname">
+                    @el.Aname
+                </td>
+                <td id="Aborn">
+                    @el.Aborn
+                </td>
+                <td id="Adied">
+                    @el.Adied
+                </td>
+                <td id="Awork">
+                    @el.AnumberOfWork
+                </td>
+                <td id="Ainfo">
+                    @el.Ainformation
+                </td>
+                <td> <button class="btn btn-primary" type="submit" onclick="FindArtist(@el.Aid)">Edit</button></td>
+                <td> <button class="btn btn-primary" type="submit" onclick="DeleteArtist(@el.Aid)">Delete</button></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<script>
+     function FindArtist(id) {
+        var url = '@Url.Action("EditArtist","Home",new {id="ID"})';
+        url = url.replace("ID", id);
+        window.location.href = url;
+    }
+    function DeleteArtist(id) {
+        $.ajax({
+            type: 'POST',
+            url: '/Home/DeleteArtist',
+            data: { id: id },
+            success: function (result) {
+                console.log("Başarılı")
+        },
+            error: function (ex) {
+                console.log("İşlem Başarısız")
+            }
+        });
+    }
+</script>

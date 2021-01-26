@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Gallery";
+}
+@{
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="stylesheet" href="~/js/site.js" />
+
+@using Gallery.ViewModels;
+@model List<GroupListViewModel>;
+
+
+@foreach (var grp in Model)
+{
+    <div>
+        <h2>
+            @grp.Gname
+        </h2>
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <td>
+                        Group ID
+                    </td>
+                    <td>
+                        ArtistName
+                    </td>
+                    <td>
+                        ArtWorkName
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td>
+                        @grp.Gid
+                    </td>
+
+                    @foreach (var item in grp.ArtistName)
+                    {
+                        <td>
+                            @item
+                        </td>
+                    }
+
+
+                    @foreach (var item in grp.ArtWorkName)
+                    {
+                <td>
+                    @item
+                </td>
+                     }
+                        
+                        <td>
+                            <button class="btn btn-primary" type="submit" onclick="Edit(@grp.Gid)">Edit</button>
+                        </td>
+                        <td>
+                            <button class="btn btn-primary" type="submit" onclick="Delete(@grp.Gid)">Delete</button>
+                        </td>
+                    </tr>
+                
+            </tbody>
+        </table>
+    </div>
+}
+
+@*@<div id="formForArtWork">
+    <form>
+        <div class="form-group">
+            <label>ID</label>
+            <input type="text" class="form-control" id="inputID">
+        </div>
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" class="form-control" id="inputName">
+        </div>
+        <div class="form-group">
+            <label>Info</label>
+            <input type="text" class="form-control" id="inputInfo">
+        </div>
+        <button class="btn btn-primary" onclick="AddGroup()">Add Group</button>
+    </form>
+</div>*@
+<script>
+    function Edit(id) {
+        var url = '@Url.Action("EditGroup", "Home", new { id = "ID" })';
+        url = url.replace("ID", id);
+        window.location.href = url;
+    }
+    function Delete(id) {
+        $.ajax({
+            type: 'POST',
+            url: '/Home/DeleteGroup',
+            data: { id: id },
+            success: function (result) {
+                console.log("Başarılı")
+            },
+            error: function (ex) {
+                console.log("İşlem Başarısız")
+            }
+        });
+    }
+</script>

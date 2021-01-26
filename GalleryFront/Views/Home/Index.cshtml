@@ -1,0 +1,50 @@
+﻿@*{
+        string Name = Context.Session.GetString("Name");
+    }*@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="~/css/Menustyle.css">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/js/site.js" />
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+<body>
+    <section></section>
+</body>
+</html>
+<div id="formForUsers">
+    <form>
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" class="form-control" id="inputName">
+        </div>
+        <div class="form-group">
+            <label>Born Date</label>
+            <input type="text" class="form-control" id="inputBorn">
+        </div>
+        <div class="form-group">
+            <label>Die Date</label>
+            <input type="text" class="form-control" id="inputDie">
+        </div>
+        <div class="form-group">
+            <label>Number Of Work</label>
+            <input type="text" class="form-control" id="inputWork">
+        </div>
+        <div class="form-group">
+            <label>Information</label>
+            <input type="text" class="form-control" id="inputInfo">
+        </div>
+        <button class="btn btn-primary" onclick="myFunction()">Add Artist</button>
+    </form>
+</div>
+
+<script>
+         function FindProfile(Username) {
+        var url = '@Url.Action("EditProfile", "Home",new { username = "Username"})';
+         url = url.replace("Username", Username);
+        window.location.href = url;
+    }
+
+</script>

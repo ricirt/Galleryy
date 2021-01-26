@@ -1,0 +1,122 @@
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.json
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.dev.json
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.genruntimeconfig.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.json
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.dev.json
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.json
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Gallery V2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.json
+C:\Users\ACER\Desktop\Gallery V2\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Gallery V2\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.json
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.genruntimeconfig.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.AssemblyInfo.cs
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.deps.json
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.json
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.runtimeconfig.dev.json
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\GalleryBusiness.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.csproj.CopyComplete
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\GalleryBusiness\obj\Debug\netcoreapp3.1\GalleryBusiness.genruntimeconfig.cache

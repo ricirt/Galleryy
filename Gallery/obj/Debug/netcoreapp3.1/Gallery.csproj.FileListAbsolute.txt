@@ -1,0 +1,509 @@
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery\Gallery\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery v2\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\Fatihh\Desktop\projects\FKFproject\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\Faruk_Aydin\Desktop\WebGallery-ASP.NET+VueJs\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\Gallery v3\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\ACER\Desktop\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.exe
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.deps.json
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.json
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.runtimeconfig.dev.json
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfoInputs.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.AssemblyInfo.cs
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.csproj.CopyComplete
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.pdb
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\obj\Debug\netcoreapp3.1\Gallery.genruntimeconfig.cache
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\xunit.core.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\fatih\Desktop\Gallery\.netCoreGalleryWebApp\Gallery\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll

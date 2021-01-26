@@ -1,0 +1,42 @@
+﻿@*
+
+*@
+@{
+    ViewData["Title"] = "Gallery";
+    Layout = "_Layout";
+}
+@using Gallery.ViewModels;
+@model ProfilViewModel;
+<link href="~/css/EditProfile.css" rel="stylesheet" />
+
+<form class="box" asp-action="EditProfile" asp-controller="Home">
+    <h1>Edit Profile</h1>
+
+    <div class="editProfile">
+        <div class="labels">
+            <div class="doublePoint"><label>Username  </label>  <label>:</label></div>
+            <div class="doublePoint"><label>Name  </label> <label>:</label></div>
+            <div class="doublePoint"><label>Age  </label> <label>:</label></div>
+            <div class="doublePoint"><label>Mail  </label> <label>:</label></div>
+            <div class="doublePoint"><label>Profession  </label> <label>:</label></div>
+            <div class="doublePoint"><label>Role  </label> <label>:</label></div>
+        </div>
+        <div class="inputs">
+            <input id="UserName" type="text" asp-for="UName" value="@Model.UName">
+            <span asp-validation-for="UName"> </span>
+            <input id="Name" type="text" asp-for="Name" value="@Model.Name">
+            <span asp-validation-for="Name"> </span>
+            <input id="Age" type="text" asp-for="Uage" value="@Model.Uage">
+            <span asp-validation-for="Uage"> </span>
+            <input id="Mail" type="text" asp-for="Umail" value="@Model.Umail">
+            <span asp-validation-for="Umail"> </span>
+            <input id="Profession" type="text" asp-for="Uprofession" value="@Model.Uprofession">
+            <span asp-validation-for="Uprofession"> </span>
+            <input id="Role" type="text" asp-for="Urole" value="@Model.Urole" readonly>
+            <span asp-validation-for="Urole"> </span>
+        </div>
+    </div>
+
+    <button class="btn btn-primary" type="submit">UPDATE</button>
+</form>
+<a class="btn btn-primary" asp-action="ChangePassword" asp-controller="Home">Change Password</a>

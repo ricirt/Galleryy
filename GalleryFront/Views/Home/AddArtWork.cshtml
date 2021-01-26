@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Gallery";
+}
+@{
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="stylesheet" href="~/js/site.js" />
+<div id="formForArtWork">
+    <form>
+        <div class="form-group">
+            <label>ID</label>
+            <input type="text" class="form-control" id="inputId">
+        </div>
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" class="form-control" id="inputName">
+        </div>
+        <div class="form-group">
+            <label>Date</label>
+            <input type="text" class="form-control" id="inputDate">
+        </div>
+        <div class="form-group">
+            <label>Information</label>
+            <input type="text" class="form-control" id="inputInformation">
+        </div>
+        <div class="form-group">
+            <label> Type Of Work</label>
+            <input type="text" class="form-control" id="inputType">
+        </div>
+        <div class="form-group">
+            <label>Value</label>
+            <input type="text" class="form-control" id="inputValue">
+        </div>
+        <label>Choose a Artist:</label>
+        <select id="inputArtist">
+            @foreach (var item in ViewBag.artistobj)
+            {
+                <option value="@item.Aid">@item.Aname</option>
+            }
+        </select>
+        <button class="btn btn-primary" onclick="AddArtWorkFunction()">Add</button>
+    </form>
+</div>

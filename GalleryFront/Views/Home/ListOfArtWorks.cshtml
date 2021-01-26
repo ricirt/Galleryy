@@ -1,0 +1,103 @@
+﻿@using Gallery.ViewModels;
+@model List<ArtworkWithArtistName>;
+
+@{
+    ViewData["Title"] = "Gallery";
+}
+@{
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="stylesheet" href="~/js/site.js" />
+<link rel="stylesheet" href="~/js/SelectedIndex.js" />
+
+
+<div>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <td>
+                    Id
+                </td>
+                <td>
+                    Name
+                </td>
+                <td>
+                    Date
+                </td>
+                <td>
+                    Information
+                </td>
+                <td>
+                    Type
+                </td>
+                <td>
+                    Value
+                </td>
+                <td>
+                    Artist
+                </td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var el in Model)
+            {
+                <tr id="@el.Awid">
+                    <td id="inputId">
+                        @el.Awid
+                    </td>
+                    <td id="inputName">
+                        @el.Awname
+                    </td>
+                    <td id="inputDate">
+                        @el.Awdate
+                    </td>
+                    <td id="inputInformation">
+                        @el.Awinformation
+                    </td>
+                    <td id="inputType">
+                        @el.Awtype
+                    </td>
+                    <td id="inputValue">
+                        @el.Awvalue
+                    </td>
+                    <td>
+                        @el.Aname
+                    </td>
+
+
+                    <td> <button class="btn btn-primary" type="submit" onclick="Find(@el.Awid)">Edit</button></td>
+                    <td> <button class="btn btn-primary" type="submit" onclick="Delete(@el.Awid)">Delete</button></td>
+
+
+                    <td>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<script>
+    function Find(id) {
+        var url = '@Url.Action("Edit","Home",new {id="ID"})';
+        url = url.replace("ID", id);
+        window.location.href = url;
+
+    }
+    function Delete(id) {
+        var object = document.getElementById(id)
+        $.ajax({
+            type: 'POST',
+            url: '/Home/DeleteArtWork',
+            data: { id: id },
+            success: function (result) {
+                console.log("Başarılı")
+                object.remove()
+            },
+            error: function (ex) {
+                console.log("İşlem Başarısız")
+            }
+        });
+    }
+</script>

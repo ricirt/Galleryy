@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Gallery";
+}
+@{
+    Layout = "_Layout";
+}
+@using Gallery.Models;
+@model Group
+<link rel="stylesheet" href="~/css/site.css" />
+<link rel="stylesheet" href="~/js/site.js" />
+<div id="formForArtWork">
+    <form asp-action="EditGroup" method="post">
+        <div class="form-group">
+            <label>ID</label>
+            <input asp-for="Gid" type="text" class="form-control" id="inputID" placeholder=@Model.Gid>
+        </div>
+        <div class="form-group">
+            <label>NAME</label>
+            <input asp-for="Gname" type="text" class="form-control" id="inputName" placeholder=@Model.Gname>
+        </div>
+        <div class="form-group">
+            <label>Information</label>
+            <input asp-for="Ginfo" type="text" class="form-control" id="inputInfo" placeholder=@Model.Ginfo>
+        </div>
+
+        <button class="btn btn-primary" type="submit">UPDATE</button>
+    </form>
+</div>

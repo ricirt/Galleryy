@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GalleryFront</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/Menustyle.css" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                    <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Gallery APP</a>
+                    <div>
+                      
+                            @* <input class="btn" type="submit" value="Hello @TempData["Username"]"  />*@
+                        <a class="btn btn-primary" asp-controller="Home" asp-action="EditProfile">Hello @TempData["Username"]</a>
+               
+                        <a class="btn btn-primary" asp-controller="Login" asp-action="logOut">Log Out</a>
+                    </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"> </span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <input type="checkbox" id="check">
+    <label for="check">
+        <i class="fas fa-bars" id="btn"></i>
+        <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="sidebar">
+        <header>Gallery App</header>
+        <ul>
+            <li><a asp-controller="Home" asp-action="Index"><i class="fas fa-qrcode"></i>Home</a></li>
+            <li><a asp-controller="Home" asp-action="GroupList"><i class="fas fa-stream"></i>Group List</a></li>
+            <li><a asp-controller="Home" asp-action="GetallArtist"><i class="fas fa-stream"></i>Artist List</a></li>
+            <li><a asp-controller="Home" asp-action="ListOfArtWorks"><i class="fas fa-stream"></i>ArtWork List</a></li>
+            <li><a asp-controller="Home" asp-action="AddArtWork"><i class="fas fa-stream"></i>ArtWork Form</a></li>
+            <li><a asp-controller="Login" asp-action="Login"><i class="fas fa-stream"></i>Login</a></li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - KAGAN - <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

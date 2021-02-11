@@ -20,15 +20,13 @@ namespace GalleryFront.Controllers
     {
         private readonly IArtist _artist;
         private readonly IArtWork _artwork;
-        private readonly IGroup _group;
         private readonly IUserLogin _userlogin;
 
 
-        public HomeController(IArtist artist, IArtWork artwork, IGroup group, IUserLogin userlogin)
+        public HomeController(IArtist artist, IArtWork artwork, IUserLogin userlogin)
         {
             _artist = artist;
             _artwork = artwork;
-            _group = group;
             _userlogin = userlogin;
         }
         public ViewResult Index()
@@ -52,12 +50,7 @@ namespace GalleryFront.Controllers
                 return View(artist);
             }
         }
-        public IActionResult GroupList()
-        {
-            ViewBag.artworkobj = _artwork.ArtworkNameView();
 
-            return View(_group.ListOfGroup());
-        }
         public IActionResult GetallArtist()
         {
             return View(_artist.GetAllArtists());
@@ -109,25 +102,7 @@ namespace GalleryFront.Controllers
             _artist.DeleteArtist(id);
             return RedirectToAction("GetallArtist");
         }
-        public void AddGroup(Group group)
-        {
-            _group.AddGroup(group);
-        }
-        public IActionResult DeleteGroup(int id)
-        {
-            _group.DeleteGroup(id);
-            return RedirectToAction("GroupList");
-        }
-        [HttpPost]
-        public IActionResult EditGroup(Group egroup)
-        {
-            _group.SetGroup(egroup);
-            return RedirectToAction("GroupList");
-        }
-        public IActionResult EditGroup(int id)
-        {
-            return View(_group.FindGroupById(id));
-        }
+
         public IActionResult EditProfile()
         {
             var loggedInUser = HttpContext.User;

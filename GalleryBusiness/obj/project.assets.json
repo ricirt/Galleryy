@@ -7817,11 +7817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\GalleryBusiness\\GalleryBusiness.csproj",
+      "projectUniqueName": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\GalleryBusiness\\GalleryBusiness.csproj",
       "projectName": "GalleryBusiness",
-      "projectPath": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\GalleryBusiness\\GalleryBusiness.csproj",
+      "projectPath": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\GalleryBusiness\\GalleryBusiness.csproj",
       "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\GalleryBusiness\\obj\\",
+      "outputPath": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\GalleryBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7838,8 +7838,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj": {
-              "projectPath": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj"
+            "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj": {
+              "projectPath": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eTb8FcFgQGoKJaUWBvcy7VOGvlcQw+CqKdj0BtTHyeySmwhY5GY4HEyu8lgB+5SqDw/uxrfxn2mjkHU8PSXZ8Q==",
+  "dgSpecHash": "HlYHXrnBQe0H2UA94K6Feh9ARHjaICL2+px5w+7IZ5EHYxCoBWxmG4XRHrfHCZEZqn792LEaXG/IQt/6dG0tRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\GalleryBusiness\\GalleryBusiness.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\GalleryBusiness\\GalleryBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",

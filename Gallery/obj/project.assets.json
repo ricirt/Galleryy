@@ -7831,11 +7831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj",
+      "projectUniqueName": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj",
       "projectName": "Gallery",
-      "projectPath": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj",
+      "projectPath": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\Gallery\\Gallery.csproj",
       "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatih\\Desktop\\Gallery\\.netCoreGalleryWebApp\\Gallery\\obj\\",
+      "outputPath": "C:\\Users\\fatih\\Desktop\\gallery_me\\.netCoreGalleryWebApp\\Gallery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config",

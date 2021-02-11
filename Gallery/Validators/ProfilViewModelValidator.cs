@@ -1,9 +1,10 @@
 ﻿using FluentValidation;
+using Gallery.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Gallery.ViewModels.Validators
+namespace Gallery.Validators
 {
     public class ProfilViewModelValidator:AbstractValidator<ProfilViewModel>
     {
@@ -14,7 +15,7 @@ namespace Gallery.ViewModels.Validators
                 .MaximumLength(50).WithMessage("50 karakterden fazla olamaz");
             RuleFor(x=>x.Umail).NotEmpty().WithMessage("User name boş olamaz")
                 .NotNull().WithMessage("E mail boş oalmaz").
-                EmailAddress().WithMessage("Email adress  formatını uygun giriniz");                
+                EmailAddress().WithMessage("Email adress  formatını uygun giriniz");
         }
     }
 }
